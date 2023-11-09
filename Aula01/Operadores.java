@@ -1,4 +1,4 @@
-package JavaInicial;
+package com.igor.cursojava.aula01;
 
 import java.util.Scanner;
 
