@@ -1,4 +1,4 @@
-package Atividades;
+package com.igor.cursojava.aula02;
 
 public class Exer03 {
 
